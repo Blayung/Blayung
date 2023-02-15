@@ -1,16 +1,11 @@
-### Hi there 👋
+> To be a human is a reason enough to be unhappy. ~ Menander
 
-<!--
-**Blayung/Blayung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I stole a page from my grandma's calendar witch contains this quote. It's still hanging in my room to this day (since 20th of November'22, cause that's the date on the card).
+#
+Man, idk what to write here, but I use arch btw. (you had to know that)
+#
+### My social media
+- Reddit: https://www.reddit.com/user/Blayung
+- Discord: Blay#1665 (My server: https://discord.gg/FEt7aY9fZ5)
+- Steam: https://steamcommunity.com/profiles/76561198971116426
+- Stack Overflow: https://stackoverflow.com/users/17045315/blayung
