@@ -1,3 +1,6 @@
+#
+Software is like sex: it's better when it's free.
+#
 I love the amogus meme. I will never forget about it. https://www.youtube.com/watch?v=5DlROhT8NgU
 #
 > To be a human is a reason enough to be unhappy. ~ Menander
