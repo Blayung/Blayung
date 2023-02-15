@@ -1,5 +1,7 @@
 #
-Software is like sex: it's better when it's free.
+> Software is like sex: it's better when it's free. ~ Linus Torvalds
+
+Yeah bitch!
 #
 I love the amogus meme. I will never forget about it. https://www.youtube.com/watch?v=5DlROhT8NgU
 #
