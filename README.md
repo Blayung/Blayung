@@ -15,4 +15,5 @@ Man, idk what to write here, but I use arch btw. (you had to know that)
 - Reddit: https://www.reddit.com/user/Blayung
 - Discord: Blay#1665 (My server: https://discord.gg/FEt7aY9fZ5)
 - Steam: https://steamcommunity.com/profiles/76561198971116426
+- Modrinth: https://modrinth.com/user/Blayung
 - Stack Overflow: https://stackoverflow.com/users/17045315/blayung
