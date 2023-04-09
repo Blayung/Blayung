@@ -18,4 +18,4 @@ Man, idk what to write here, but I use arch btw. (you had to know that)
 - Modrinth: https://modrinth.com/user/Blayung
 - Stack Overflow: https://stackoverflow.com/users/17045315/blayung
 #
-test
+Oh man, I can't belive that I have this github account for such a long time, and only today - on 09/04/2023 I've got my first pull request merged into someone else's repo.
