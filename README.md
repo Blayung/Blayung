@@ -7,7 +7,7 @@ I love the amogus meme. I will never forget about it. https://www.youtube.com/wa
 #
 > To be a human is a reason enough to be unhappy. ~ Menander
 
-I stole a page from my grandma's calendar witch contains this quote. It's still hanging in my room to this day (since 20th of November'22, cause that's the date on the card).
+I stole a page from my grandma's calendar witch contains this quote. It's still hanging in my room to this day, since 20th of November'22, cause that's the date on the card (for real xd)
 #
 Man, idk what to write here, but I use arch btw. (you had to know that)
 #
