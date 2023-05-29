@@ -9,7 +9,7 @@ I love the amogus meme. I will never forget about it. https://www.youtube.com/wa
 #
 ### My social media
 - Reddit: https://www.reddit.com/user/Blayung
-- Discord: Blay#1665, My server (a lot of polish people): https://discord.gg/FEt7aY9fZ5
+- Discord: Blay#1665, my server: https://discord.gg/FEt7aY9fZ5 (a lot of polish people)
 - Steam: https://steamcommunity.com/profiles/76561198971116426
 - Modrinth: https://modrinth.com/user/Blayung
 - Stack Overflow: https://stackoverflow.com/users/17045315/blayung
