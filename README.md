@@ -7,7 +7,7 @@ Yeah bitch! I love these two quotes so much!
 #
 I love the amogus meme. I will never forget about it. https://www.youtube.com/watch?v=5DlROhT8NgU
 #
-Hey, check out my opensource game in sdl2 + rust! It's my first project like that, and I feel very motivated to do it. It is still in its very early stages of development, and I'm not even sure what direction will I really take it in.  
+Hey, check out my new opensource multiplayer game in sdl2 + rust! It's my first project like that, and I feel very motivated to do it. It is still in its very early stages of development, and I'm not even sure what direction will I really take it in.  
 https://github.com/Blayung/kum.io
 #
 ### My social media
