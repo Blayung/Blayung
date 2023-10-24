@@ -1,13 +1,9 @@
 #
+I've recently finished the [modtoberfest](https://modtoberfest.com) challange, and I am waiting for the stickers!
+#
 > Software is like sex: it's better when it's free. ~ Linus Torvalds
-
-> A computer is like air conditioning – it becomes useless when you open Windows. ~ Linus Torvalds
-
-Yeah bitch! I love these two quotes so much!
 #
-I love the amogus meme. I will never forget about it. https://www.youtube.com/watch?v=5DlROhT8NgU
-#
-Hey, check out my new opensource multiplayer game in sdl2 + rust! It's my first project like that, and I feel very motivated to do it. It is still in its very early stages of development, and I'm not even sure what direction will I really take it in.  
+Hey, check out my new opensource multiplayer game in sdl2 + rust! It's my first project like that, ~~and I feel very motivated to do it~~ man, I had such good motivation for the first few months, but I fell so lazy to do it now. It is still in its very early stages of development, and I'm not even sure what direction will I really take it in.  
 https://github.com/Blayung/kum.io
 #
 ### My social media
@@ -16,5 +12,7 @@ https://github.com/Blayung/kum.io
 - Steam: https://steamcommunity.com/profiles/76561198971116426
 - Modrinth: https://modrinth.com/user/Blayung
 - Stack Overflow: https://stackoverflow.com/users/17045315/blayung
+- My email: gpewojan1@gmail.com
 #
 FUNGUS
+#
