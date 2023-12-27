@@ -11,4 +11,3 @@ I've recently finished the [modtoberfest](https://modtoberfest.com) challange, a
 - My email: gpewojan1@gmail.com
 #
 FUNGUS
-#
