@@ -8,7 +8,6 @@ I've recently finished the [modtoberfest](https://modtoberfest.com) challange, a
 - Discord: @\_b\_l\_a\_y\_ (Blay#1665), my server: https://discord.gg/FEt7aY9fZ5 (a lot of polish people)
 - Steam: https://steamcommunity.com/profiles/76561198971116426
 - Modrinth: https://modrinth.com/user/Blayung
-- Stack Overflow: https://stackoverflow.com/users/17045315/blayung
 - My email: gpewojan1@gmail.com
 #
 FUNGUS
