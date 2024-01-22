@@ -1,5 +1,5 @@
 #
-I've recently finished the [modtoberfest](https://modtoberfest.com) challange, and I am waiting for the stickers!
+~I've recently~ A long time ago :| I finished the [modtoberfest](https://modtoberfest.com) challange, and I am waiting for the stickers!
 #
 > Software is like sex: it's better when it's free. ~ Linus Torvalds
 #
