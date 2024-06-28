@@ -4,4 +4,4 @@
 - Modrinth: https://modrinth.com/user/Blay
 - My email: gpewojan1@gmail.com
 #
-FUNGUS
+FUNGI
